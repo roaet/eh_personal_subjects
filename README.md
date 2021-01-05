@@ -1,4 +1,4 @@
-# eh_subjects
+# eh_personal_subjects
 
 Subjects for the eh program
 

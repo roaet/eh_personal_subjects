@@ -1,3 +1,4 @@
+[//]: # (setup) Configuration steps
 ## Mac Setup
 
 ### Steps
@@ -10,6 +11,7 @@
 5. install go
 6. install spacevim
 7. install tmux
+8. install eh
 
 ### Links
 
