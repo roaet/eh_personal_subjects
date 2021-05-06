@@ -1,4 +1,4 @@
-[//]: # (setup) Configuration steps
+t[//]: # (setup) Configuration steps
 ## Mac Setup
 
 ### Steps
